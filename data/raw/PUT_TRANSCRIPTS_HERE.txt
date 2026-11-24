@@ -1,0 +1,1 @@
+Add your own legally obtained speaker transcript .txt files to this folder.
